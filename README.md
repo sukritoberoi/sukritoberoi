@@ -34,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-007ACC?style=flat-square&logo=Kotlin)
 
 
 
